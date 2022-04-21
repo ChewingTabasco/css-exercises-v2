@@ -2,3 +2,8 @@
   background-color: lightpink;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#second-element {
+  color: rgb(23, 23, 197);
+  font-size: 36px;
+}
