@@ -32,6 +32,10 @@ img {
   gap: 52px;
 }
 
+.box {
+  width: 200px;
+}
+
 body {
   text-align: center;
 }
