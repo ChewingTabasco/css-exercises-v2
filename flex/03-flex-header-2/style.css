@@ -52,3 +52,7 @@ ul {
 .header {
   display: flex;
 }
+.left-container,
+.right-container {
+  display: flex;
+}
