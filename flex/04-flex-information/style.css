@@ -30,6 +30,7 @@ img {
   display: flex;
   padding: 36px;
   gap: 52px;
+  justify-content: center;
 }
 
 .box {
