@@ -28,6 +28,8 @@ img {
 /* edit below this line */
 .plant-container {
   display: flex;
+  padding: 36px;
+  gap: 52px;
 }
 
 body {
