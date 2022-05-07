@@ -54,13 +54,18 @@ ul {
   justify-content: space-between;
   padding: 8px;
 }
+
 .left-container,
 .right-container {
   display: flex;
   align-items: center;
   gap: 16px;
+  padding: 0;
 }
 
 ul {
   display: flex;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
 }
