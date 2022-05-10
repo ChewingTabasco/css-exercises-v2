@@ -28,15 +28,8 @@ input {
 
 /* edit below this line */
 
-.header {
-  display: flex;
-  justify-content: space-between;
-}
-
 .footer {
   background-color: #eeeeee;
-  display: flex;
-  justify-content: space-between;
 }
 
 ul {
@@ -60,4 +53,6 @@ body {
 .header,
 .footer {
   padding: 16px;
+  display: flex;
+  justify-content: space-between;
 }
