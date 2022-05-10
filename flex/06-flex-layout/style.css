@@ -62,3 +62,8 @@ body {
 .content {
   text-align: center;
 }
+
+button {
+  padding: 6px 14px;
+  font-weight: bold;
+}
