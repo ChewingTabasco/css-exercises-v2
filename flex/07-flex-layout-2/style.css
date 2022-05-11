@@ -38,3 +38,7 @@ body {
   display: flex;
   flex: 1;
 }
+
+.card-container {
+  display: flex;
+}
