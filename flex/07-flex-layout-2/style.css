@@ -53,3 +53,8 @@ body {
 .sidebar {
   flex-shrink: 0;
 }
+
+.header {
+  font-size: 32px;
+  font-weight: 900;
+}
