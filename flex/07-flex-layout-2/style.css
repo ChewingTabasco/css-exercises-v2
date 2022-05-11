@@ -44,3 +44,7 @@ body {
   flex-wrap: wrap;
   padding: 32px;
 }
+
+.sidebar {
+  flex-shrink: 0;
+}
