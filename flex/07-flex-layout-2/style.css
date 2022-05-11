@@ -45,6 +45,10 @@ body {
   padding: 32px;
 }
 
+.card {
+  width: 300px;
+}
+
 .sidebar {
   flex-shrink: 0;
 }
